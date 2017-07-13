@@ -1,12 +1,12 @@
 # CriticalCritters
-A 2D-physics puzzle game for Android
-
-insert image
-
-Contributors: René Straub, Tim Wischadlo
-Published: 2014
-Platform: Android
-Language: Java + LibGDX
-Available: [Play Store] (https://play.google.com/store/apps/details?id=com.severebytes.cc)
-
+A 2D-physics puzzle game for Android <br>
+<br>
+[insert image]<br>
+<br>
+Contributors: René Straub, Tim Wischadlo <br>
+Published: 2014 <br>
+Platform: Android <br>
+Language: Java + LibGDX <br>
+Available: [Play Store](https://play.google.com/store/apps/details?id=com.severebytes.cc) <br>
+<br>
 The code will be public in September 2017.

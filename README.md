@@ -1,7 +1,7 @@
 # CriticalCritters
 A 2D-physics puzzle game for Android <br>
 <br>
-[insert image]<br>
+![logo](https://github.com/DeepVinci/CriticalCritters/blob/master/images/critical_critters.png "Critical Critters Logo")<br>
 <br>
 Contributors: René Straub, Tim Wischadlo <br>
 Published: 2014 <br>
